@@ -2,6 +2,6 @@
 ## This is a smaller H2 header
 
 ![](https://octodex.github.com/images/yaktocat.png)
-- Reading book
-- writing code
-- Traveling to new places
+
+```javascript
+var myVar = "Hello, world!";
